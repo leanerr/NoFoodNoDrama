@@ -14,7 +14,7 @@ Download the zip file of the project, import it in XCode and run
   </ul>
   <br>
   <div align="center">
-    <img width="240" alt="01" src="https://user-images.githubusercontent.com/85639418/217957849-0b954aea-8a46-43d8-ab47-93565596223d.png">
+    <img width="240" alt="01" src="Images/2024-06-10 09.41.32.jpg">
     &emsp;&emsp;
     <img width="240" alt="02" src="https://user-images.githubusercontent.com/85639418/217957868-f087a3f7-d8e7-4e3d-8ed2-8c5e05e733fa.png">
     &emsp;&emsp;

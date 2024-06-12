@@ -7,13 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C837750929296CCD0000877A /* FoodOrderingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C837750829296CCD0000877A /* FoodOrderingApp.swift */; };
 		C837750B29296CCD0000877A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C837750A29296CCD0000877A /* ContentView.swift */; };
-		C837750D29296CCD0000877A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C837750C29296CCD0000877A /* Assets.xcassets */; };
 		C837751029296CCD0000877A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C837750F29296CCD0000877A /* Preview Assets.xcassets */; };
 		C837751729296D090000877A /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C837751629296D090000877A /* HomeScreen.swift */; };
 		C8377526292A25580000877A /* Dish.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8377525292A25580000877A /* Dish.swift */; };
-		C8377528292A2A890000877A /* RestaurantCategories.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8377527292A2A890000877A /* RestaurantCategories.swift */; };
 		C89D215529626668000A408D /* search.svg in Resources */ = {isa = PBXBuildFile; fileRef = C89D212629626668000A408D /* search.svg */; };
 		C89D215629626668000A408D /* empty_cart.png in Resources */ = {isa = PBXBuildFile; fileRef = C89D212729626668000A408D /* empty_cart.png */; };
 		C89D215729626668000A408D /* Chinese.png in Resources */ = {isa = PBXBuildFile; fileRef = C89D212829626668000A408D /* Chinese.png */; };
@@ -30,22 +27,12 @@
 		C89D216229626668000A408D /* Pizza.png in Resources */ = {isa = PBXBuildFile; fileRef = C89D213329626668000A408D /* Pizza.png */; };
 		C89D216329626668000A408D /* Breakfast.png in Resources */ = {isa = PBXBuildFile; fileRef = C89D213429626668000A408D /* Breakfast.png */; };
 		C89D216429626668000A408D /* gray.json in Resources */ = {isa = PBXBuildFile; fileRef = C89D213529626668000A408D /* gray.json */; };
-		C89D216729626668000A408D /* DishCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89D213A29626668000A408D /* DishCard.swift */; };
-		C89D216829626668000A408D /* OrderDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89D213B29626668000A408D /* OrderDetails.swift */; };
-		C89D216929626668000A408D /* CategoryCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89D213C29626668000A408D /* CategoryCard.swift */; };
-		C89D216A29626668000A408D /* CartManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89D213D29626668000A408D /* CartManager.swift */; };
-		C89D216B29626668000A408D /* BackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89D213E29626668000A408D /* BackButton.swift */; };
-		C89D216C29626668000A408D /* RestaurantCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89D213F29626668000A408D /* RestaurantCard.swift */; };
 		C89D216D29626668000A408D /* DishDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89D214029626668000A408D /* DishDetails.swift */; };
 		C89D216E29626668000A408D /* CategoryCard2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89D214129626668000A408D /* CategoryCard2.swift */; };
-		C89D216F29626668000A408D /* RestaurantInCart.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89D214229626668000A408D /* RestaurantInCart.swift */; };
-		C89D217029626668000A408D /* DishInCart.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89D214329626668000A408D /* DishInCart.swift */; };
 		C89D217129626668000A408D /* RestaurantCategories.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89D214429626668000A408D /* RestaurantCategories.swift */; };
 		C89D217229626668000A408D /* FoodOrderingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89D214629626668000A408D /* FoodOrderingApp.swift */; };
 		C89D217329626668000A408D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C89D214729626668000A408D /* Assets.xcassets */; };
-		C89D217429626668000A408D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C89D214929626668000A408D /* Preview Assets.xcassets */; };
 		C8BCCF33295C8645008496F6 /* BrowseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8BCCF32295C8645008496F6 /* BrowseView.swift */; };
-		C8BCCF35295C8C98008496F6 /* CategoryCard2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8BCCF34295C8C98008496F6 /* CategoryCard2.swift */; };
 		C8BCCF39295D05DB008496F6 /* BackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8BCCF38295D05DB008496F6 /* BackButton.swift */; };
 		C8C7CE0D29574AE300BD75CE /* RestaurantInCart.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C7CE0C29574AE300BD75CE /* RestaurantInCart.swift */; };
 		C8D3E8CF292ED22B00876E12 /* CartManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D3E8CE292ED22B00876E12 /* CartManager.swift */; };
@@ -56,7 +43,6 @@
 		C8FF4124292BFF480023B29F /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8FF4123292BFF480023B29F /* Restaurant.swift */; };
 		C8FF4126292C3F830023B29F /* RestaurantsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8FF4125292C3F830023B29F /* RestaurantsView.swift */; };
 		C8FF4128292C865A0023B29F /* RestaurantList.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8FF4127292C865A0023B29F /* RestaurantList.swift */; };
-		C8FF4130292D32E30023B29F /* DishDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8FF412F292D32E30023B29F /* DishDetails.swift */; };
 		C8FF4132292D38810023B29F /* CategoryCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8FF4131292D38810023B29F /* CategoryCard.swift */; };
 		C8FF4134292D392D0023B29F /* DishCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8FF4133292D392D0023B29F /* DishCard.swift */; };
 		C8FF4136292D4B370023B29F /* RestaurantMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8FF4135292D4B370023B29F /* RestaurantMenu.swift */; };
@@ -321,7 +307,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1410;
-				LastUpgradeCheck = 1410;
+				LastUpgradeCheck = 1530;
 				TargetAttributes = {
 					C837750429296CCC0000877A = {
 						CreatedOnToolsVersion = 14.1;
@@ -369,13 +355,11 @@
 				C89D216029626668000A408D /* Thai.png in Resources */,
 				C89D216329626668000A408D /* Breakfast.png in Resources */,
 				C89D215B29626668000A408D /* Mexican.png in Resources */,
-				C89D217429626668000A408D /* Preview Assets.xcassets in Resources */,
 				C89D216229626668000A408D /* Pizza.png in Resources */,
 				C89D216429626668000A408D /* gray.json in Resources */,
 				C89D215729626668000A408D /* Chinese.png in Resources */,
 				C89D215C29626668000A408D /* Japanese.png in Resources */,
 				C89D215829626668000A408D /* bell.jpg in Resources */,
-				C837750D29296CCD0000877A /* Assets.xcassets in Resources */,
 				C89D215A29626668000A408D /* American.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -395,31 +379,19 @@
 				C8FF411E292BED770023B29F /* RestaurantCard.swift in Sources */,
 				C8DA89102958F63800B083CA /* OrderDetails.swift in Sources */,
 				C8FF4134292D392D0023B29F /* DishCard.swift in Sources */,
-				C8BCCF35295C8C98008496F6 /* CategoryCard2.swift in Sources */,
 				C8BCCF39295D05DB008496F6 /* BackButton.swift in Sources */,
 				C8FF4126292C3F830023B29F /* RestaurantsView.swift in Sources */,
-				C89D216729626668000A408D /* DishCard.swift in Sources */,
-				C89D216B29626668000A408D /* BackButton.swift in Sources */,
 				C8D3E8CF292ED22B00876E12 /* CartManager.swift in Sources */,
 				C8377526292A25580000877A /* Dish.swift in Sources */,
 				C89D217229626668000A408D /* FoodOrderingApp.swift in Sources */,
 				C89D217129626668000A408D /* RestaurantCategories.swift in Sources */,
 				C8D3E8D3292EDB0000876E12 /* CartView.swift in Sources */,
-				C89D216C29626668000A408D /* RestaurantCard.swift in Sources */,
 				C89D216D29626668000A408D /* DishDetails.swift in Sources */,
 				C837750B29296CCD0000877A /* ContentView.swift in Sources */,
 				C8C7CE0D29574AE300BD75CE /* RestaurantInCart.swift in Sources */,
-				C89D217029626668000A408D /* DishInCart.swift in Sources */,
-				C8FF4130292D32E30023B29F /* DishDetails.swift in Sources */,
-				C89D216A29626668000A408D /* CartManager.swift in Sources */,
-				C89D216929626668000A408D /* CategoryCard.swift in Sources */,
-				C837750929296CCD0000877A /* FoodOrderingApp.swift in Sources */,
-				C89D216829626668000A408D /* OrderDetails.swift in Sources */,
-				C89D216F29626668000A408D /* RestaurantInCart.swift in Sources */,
 				C837751729296D090000877A /* HomeScreen.swift in Sources */,
 				C8BCCF33295C8645008496F6 /* BrowseView.swift in Sources */,
 				C8FF4136292D4B370023B29F /* RestaurantMenu.swift in Sources */,
-				C8377528292A2A890000877A /* RestaurantCategories.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -462,6 +434,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -522,6 +495,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -545,12 +519,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"FoodOrdering/Preview Content\"";
-				DEVELOPMENT_TEAM = 26Q9BJKF28;
+				DEVELOPMENT_TEAM = 2R5N5996NF;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Festio;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -560,8 +536,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = FoodOrdering;
+				MARKETING_VERSION = 1.1;
+				PRODUCT_BUNDLE_IDENTIFIER = Festio;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -574,12 +550,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"FoodOrdering/Preview Content\"";
-				DEVELOPMENT_TEAM = 26Q9BJKF28;
+				DEVELOPMENT_TEAM = 2R5N5996NF;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Festio;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -589,8 +567,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = FoodOrdering;
+				MARKETING_VERSION = 1.1;
+				PRODUCT_BUNDLE_IDENTIFIER = Festio;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;

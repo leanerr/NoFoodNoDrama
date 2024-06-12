@@ -323,21 +323,21 @@ extension Dish {
             name: "Chicken Egg Roll",
             image: "https://olo-images-live.imgix.net/52/524bbb9023e2409b8d3fceae944a808f.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=810&h=540&fit=crop&fm=png32&s=4f4cc30df356786bbe3968181f8c5160",
             price: 6.00,
-            restaurant: "Panda Express",
+            restaurant: "La città d'oro",
             category: "Appetizer"
         ),
         Dish(
             name: "Chow Mein",
             image: "https://nomnom-files.pandaexpress.com/global/assets/modifiers/Sides_ChowMein.png",
             price: 15.49,
-            restaurant: "Panda Express",
+            restaurant: "La città d'oro",
             category: "Main"
         ),
         Dish(
             name: "Honey Sesame Chicken Breast",
             image: "https://olo-images-live.imgix.net/c2/c23ffd19030e4ac69087df2184fbd23b.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=810&h=540&fit=crop&fm=png32&s=7e4ca8a9338dae1e52174487f3abb181",
             price: 16.50,
-            restaurant: "Panda Express",
+            restaurant: "La città d'oro",
             category: "Main",
             isPopular: true
         ),
@@ -345,7 +345,7 @@ extension Dish {
             name: "Honey Walnut Shrimp",
             image: "https://olo-images-live.imgix.net/e0/e065708712fb4fa2b43d3b6a34e7993d.png?auto=format%2Ccompress&q=60&cs=tinysrgb&w=810&h=540&fit=crop&fm=png32&s=a195a7d0bfcdab2002821f262b3fb624",
             price: 17.00,
-            restaurant: "Panda Express",
+            restaurant: "La città d'oro",
             category: "Main",
             isPopular: true,
             isNew: true
@@ -357,7 +357,7 @@ extension Dish {
             image: "https://media-cdn.grubhub.com/image/upload/d_search:browse-images:default.jpg/w_150,q_auto:low,fl_lossy,dpr_2.0,c_fill,f_auto,h_130,g_auto/cki3ja1xqqsswfitc9hk",
             price: 2.95,
             description: "Crispy dough filled with minced vegetables",
-            restaurant: "Mark Pi's",
+            restaurant: "La Muraglia Chuanchao",
             category: "Appetizer"
         ),
         Dish(
@@ -365,7 +365,7 @@ extension Dish {
             image: "https://media-cdn.grubhub.com/image/upload/d_search:browse-images:default.jpg/w_150,q_auto:low,fl_lossy,dpr_2.0,c_fill,f_auto,h_130,g_auto/v6xipqwnaydipthm8zcx",
             price: 4.50,
             description: "Fried wonton wrapper filled with crab and cream cheese",
-            restaurant: "Mark Pi's",
+            restaurant: "La Muraglia Chuanchao",
             category: "Appetizer"
         ),
         Dish(
@@ -373,14 +373,14 @@ extension Dish {
             image: "https://media-cdn.grubhub.com/image/upload/d_search:browse-images:default.jpg/w_150,q_auto:low,fl_lossy,dpr_2.0,c_fill,f_auto,h_130,g_auto/q2n0uncvyg9ydlucwpzp",
             price: 4.35,
             description: "Soup that is both spicy and sour, typically flavored with hot pepper and vinegar",
-            restaurant: "Mark Pi's",
+            restaurant: "La Muraglia Chuanchao",
             category: "SoupAndSide"
         ),
         Dish(
             name: "Almond Boneless Chicken",
             image: "https://media-cdn.grubhub.com/image/upload/d_search:browse-images:default.jpg/w_150,q_auto:low,fl_lossy,dpr_2.0,c_fill,f_auto,h_130,g_auto/fuxno6pxbpuv3o97qdyb",
             price: 10.75,
-            restaurant: "Mark Pi's",
+            restaurant: "La Muraglia Chuanchao",
             category: "Main"
         ),
         Dish(
@@ -388,14 +388,14 @@ extension Dish {
             image: "https://media-cdn.grubhub.com/image/upload/d_search:browse-images:default.jpg/w_150,q_auto:low,fl_lossy,dpr_2.0,c_fill,f_auto,h_130,g_auto/subsfiolulqwe80bucyc",
             price: 10.75,
             description: "Poultry marinated or glazed in a soy based sauce",
-            restaurant: "Mark Pi's",
+            restaurant: "La Muraglia Chuanchao",
             category: "Main"
         ),
         Dish(
             name: "Gang Pang Chicken",
             image: "https://media-cdn.grubhub.com/image/upload/d_search:browse-images:default.jpg/w_150,q_auto:low,fl_lossy,dpr_2.0,c_fill,f_auto,h_130,g_auto/lvfs5v5dtaq2s9gl4dpr",
             price: 10.75,
-            restaurant: "Mark Pi's",
+            restaurant: "La Muraglia Chuanchao",
             category: "Main"
         ),
 
@@ -405,7 +405,7 @@ extension Dish {
             image: "https://www.pfchangs.com/images/default-source/menu/dim-sum/porkdumplings-6ct-1200x80088af8643-30cc-4ab3-bfa5-58d30b740709.jpg?sfvrsn=710a7282_3",
             price: 11.00,
             description: "Pan-fried or steamed, light chili sauce drizzle",
-            restaurant: "P.F. Chang’s",
+            restaurant: "Naples Asian food",
             category: "Appetizer"
         ),
         Dish(
@@ -413,7 +413,7 @@ extension Dish {
             image: "https://www.pfchangs.com/images/default-source/menu/salads-soups/eggdropsoupbowl-1200x800153244cd-f8d7-41f5-9047-4bb50218f57f.jpg?sfvrsn=2531e03d_3",
             price: 10.50,
             description: "Velvety broth, julienned carrots, green onion",
-            restaurant: "P.F. Chang’s",
+            restaurant: "Naples Asian food",
             category: "SoupAndSide"
         ),
         Dish(
@@ -421,7 +421,7 @@ extension Dish {
             image: "https://www.pfchangs.com/images/default-source/menu/sushi/dynamiteshrimproll-1200x800a9be03ec-a6f1-42fa-8951-6859aa2589ce.jpg?sfvrsn=4d62cfe4_3",
             price: 15.00,
             description: "Tempura-battered shrimp, signature California roll, sriracha aioli, umami sauce, smoked tableside",
-            restaurant: "P.F. Chang’s",
+            restaurant: "Naples Asian food",
             category: "Main"
         ),
         Dish(
@@ -429,7 +429,7 @@ extension Dish {
             image: "https://www.pfchangs.com/images/default-source/menu/lunch/mongolianbeefbowl-1200x8006af35fee-763e-4187-9071-8fc8ce41660d.jpg?sfvrsn=3a93d58d_3",
             price: 16.49,
             description: "Sweet soy glaze, garlic, snipped green onion",
-            restaurant: "P.F. Chang’s",
+            restaurant: "Naples Asian food",
             category: "Main"
         ),
 
@@ -439,7 +439,7 @@ extension Dish {
             image: "https://www.leeannchin.com/assets/media/menu/potstickers.jpg",
             price: 5.70,
             description: "Wok-seared dumplings with chicken and vegetables",
-            restaurant: "Leann Chin",
+            restaurant: "好味道点心店",
             category: "Appetizer"
         ),
         Dish(
@@ -447,7 +447,7 @@ extension Dish {
             image: "https://www.leeannchin.com/assets/media/menu/firecrackershrimp.jpg",
             price: 11.25,
             description: "Tender breaded shrimp wok-tossed in a sweet and spicy firecracker sauce",
-            restaurant: "Leann Chin",
+            restaurant: "好味道点心店",
             category: "Main"
         ),
         Dish(
@@ -455,7 +455,7 @@ extension Dish {
             image: "https://www.leeannchin.com/assets/media/menu/vegetablefriedrice.jpg",
             price: 10.50,
             description: "Vegetable Fried Rice with mushrooms, green onions, sprouts and egg, seasoned with mushroom soy sauce",
-            restaurant: "Leann Chin",
+            restaurant: "好味道点心店",
             category: "Main"
         ),
 
@@ -465,7 +465,7 @@ extension Dish {
             image: "https://www.dintaifungusa.com/us/image/2449",
             price: 10.50,
             description: "Choice cuts of chicken are steamed for hours with fresh ginger and green onion. This signature Din Tai Fung dish is light, but packs a rich aroma",
-            restaurant: "Din Tai Fung",
+            restaurant: "好味道点心店",
             category: "SoupAndSide"
         ),
         Dish(
@@ -473,7 +473,7 @@ extension Dish {
             image: "https://www.dintaifungusa.com/us/image/1294",
             price: 10.50,
             description: "The modest dumpling that started a legacy",
-            restaurant: "Din Tai Fung",
+            restaurant: "好味道点心店",
             category: "Main"
         ),
 

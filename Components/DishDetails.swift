@@ -47,7 +47,7 @@ struct DishDetails: View {
                     .bold()
                 
                 // Price
-                Text("$\(dish.price, specifier: "%.2f")")
+                Text("€\(dish.price, specifier: "%.2f")")
                     .padding(.leading)
                     .font(.subheadline)
                     .fontWeight(.semibold)

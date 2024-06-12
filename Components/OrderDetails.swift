@@ -47,7 +47,7 @@ struct OrderDetails: View {
                 Spacer()
                 
                 let subtotal = computeSubtotal()
-                Text("$\(subtotal, specifier: "%.2f")")
+                Text("€\(subtotal, specifier: "%.2f")")
                     .font(.system(size: 20))
                     .bold()
             }
@@ -159,7 +159,7 @@ struct ItemRow: View {
                 
                 Spacer()
                 
-                Text("$\(dish.price * Double(quantity), specifier: "%.2f")")
+                Text("€\(dish.price * Double(quantity), specifier: "%.2f")")
             }
             .padding()
             .padding([.leading], 10)

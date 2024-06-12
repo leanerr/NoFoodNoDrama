@@ -72,7 +72,7 @@ struct RestaurantInCart: View {
                         
                         Text("•")
                         
-                        Text("$\(subtotal, specifier: "%.2f")")
+                        Text("€\(subtotal, specifier: "%.2f")")
                             .font(.system(size: 14))
                     }
                 }

@@ -83,7 +83,7 @@
         var body: some View {
             HStack {
                 VStack(alignment: .leading, spacing: 12) {
-                    Text("No Food? No Drama!")
+                    Text("Festio")
                         .foregroundColor(Color.gray)
                         .font(.system(size: 16))
                     Text("Apple Academy, Naples")

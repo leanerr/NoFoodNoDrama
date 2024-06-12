@@ -26,7 +26,7 @@ struct DishInCart: View {
                         .font(.system(size: 16))
                         .bold()
                    
-                    Text("$\(dish.price, specifier: "%.2f")")
+                    Text("€\(dish.price, specifier: "%.2f")")
                         .font(.subheadline)
                         .fontWeight(.light)
                 }
